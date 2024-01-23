@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name": "Deeshnna Sreyas",
+    "occupation": "Frontend Developer",
+    "description": "",
+    "image": "deeshna.jpeg",
+    "bio": "My name is Deeshnna Sreyas, I'm Frontend developer. i have expertise on React js.",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "deeshnnasreyas@gmail.com",
+    "phone": "+91 8921547425/ +97430495962 ",
+    "address": {
+      "street": "VADAKARA",
+      "city": "KOZHIKODE",
+      "state": "India",
+      "zip": "673507"
+    },
+    "resumedownload": "DEESHNNASREYAS-RESUME.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deeshnna-ak-730869210/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.linkedin.com/in/deeshnna-ak-730869210/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Deeshnnasreyas",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "GEC Rajkot",
+        "degree": "Bachelor Degree in Computer Science",
+        "graduated": "2018",
+        "description": "Completed with a cumulative GPA of 7.7"
+      }
+    ],
+    "work": [
+      {
+        "company": "Hexeam software solutions govt cyberpark,Kozhikode",
+        "title": "Software Engineer",
+        "years": "Present",
+        "description": "API integration and Testing"
+      },
+      {
+        "company": "Reviewbit,UL cyberpark,Kozhikode",
+        "title": "Frontend Developer",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "Cybaze,UL cyberpark,Kozhikode",
+        "title": "Software Engineer",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "Fullstack developer",
+        "years": "Jan 2018 - May 2020",
+        "description": "Learning Node js and React Js"
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "Node",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Redux",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Mysql",
+        "level": "50%"
+      }
+    ]
+  },
+  "npm": {
+    "package": [
+      {
+        "title": "react native image placeholder",
+        "description": "The image component that supports shows placeholderSource when load image network.",
+        "link": "https://www.npmjs.com/package/react-native-img-placeholder"
+      },
+      {
+        "title": "react native text thumbnail",
+        "description": "Add text of two characte while we dont have image of user",
+        "link": "https://www.npmjs.com/package/react-native-text-thumbnail"
+      },
+      {
+        "title": "lazyload image for react js",
+        "description": "Lazyload image Library Create Lazyload Gallary with loadlazy",
+        "link": "npmjs.com/package/loadlazy"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack Task Management",
+        "category": "Task Control built with MERN (ReactJS, NodeJS)",
+        "image": "taskcontrol.png",
+        "url": "https://taskcontrol.vercel.app"
+      },
+      {
+        "title": "MERN Stack Court Case File",
+        "category": "Court Case filling built with MERN (ReactJS, NodeJS)",
+        "image": "ecasex.png",
+        "url": "https://ecasex-jade.vercel.app/"
+      },
+      {
+        "title": "SheepMug Church Management App ",
+        "category": "Church Management React Native app and Web site Made in MERN",
+        "image": "SheepMug.png",
+        "url": "https://www.sheepmug.com/"
+      },
+      {
+        "title": "Ample.tv Video Streaming",
+        "category": "Youtube and Twitch Video streaming Website built with ReactJS And AWS lamda",
+        "image": "ample.png",
+        "url": "https://ample.tv/"
+      },
+      {
+        "title": "Fuuly School Management",
+        "category": "School Management and attendance system built with React Native",
+        "image": "fuuly.png",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mayank did an amazing job and delivered this much faster than expected! I would definitely hire him again for any programming job. He understood the requirements immediately and started to work on it right away. I would surely recommend him for any similar type of work.",
+        "user": "wesley   - Fiverr"
+      },
+      {
+        "text": "Great developer to work with. Very professional and time sensitive. I will keep working with him for long term!",
+        "user": "jinhromeo1  - Fiverr"
+      },
+      {
+        "text": "Mehul has successfully delivered an online store using ReactJs,MongoDb, and NodeJs. He was able to listen and apply any updates or changes to the website. I was happy working with him and I would definitely recommend him!",
+        "user": "Upwork Client"
+      },
+      {
+        "text": "great job. solid react native skills.",
+        "user": "hydrameet founder"
+      }
+    ]
+  }
+}
