@@ -14,7 +14,7 @@
       "state": "India",
       "zip": "673507"
     },
-    "resumedownload": "DEESHNNASREYAS-RESUME.pdf",
+    "resumedownload": "deeshna.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -42,10 +42,16 @@
     "skillmessage": "",
     "education": [
       {
-        "school": "GEC Rajkot",
+        "school": "Indira gandhi engineering and technology",
         "degree": "Bachelor Degree in Computer Science",
         "graduated": "2018",
-        "description": "Completed with a cumulative GPA of 7.7"
+        "description": "Completed with a cumulative GPA of 7.5"
+      },
+      {
+        "school": "Residential Womens Polytechnic College",
+        "degree": "Computer Science",
+        "graduated": "2015",
+        "description": "Completed with a cumulative GPA of 8.9"
       }
     ],
     "work": [
@@ -76,17 +82,29 @@
      
     ],
     "skills": [
-      {
-        "name": "Node",
-        "level": "100%"
-      },
-      {
-        "name": "ReactJs",
+          {
+        "name": "REACTJS",
         "level": "90%"
       },
       {
-        "name": "Redux",
-        "level": "90%"
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "REDUX",
+        "level": "85%"
+      },
+      {
+        "name": "NEXTJS",
+        "level": "80%"
+      },
+      {
+        "name": "TAILWIND CSS",
+        "level": "80%"
+      },
+      {
+        "name": "SASS",
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -101,74 +119,75 @@
   "npm": {
     "package": [
       {
-        "title": "react native image placeholder",
-        "description": "The image component that supports shows placeholderSource when load image network.",
-        "link": "https://www.npmjs.com/package/react-native-img-placeholder"
+        "title": "react-bootstrap",
+        "description": "React-Bootstrap is a complete re-implementation of the Bootstrap components using React.",
+        "link": "https://www.npmjs.com/package/react-bootstrap"
       },
       {
-        "title": "react native text thumbnail",
-        "description": "Add text of two characte while we dont have image of user",
-        "link": "https://www.npmjs.com/package/react-native-text-thumbnail"
+        "title": "react-hook-form",
+        "description": "Used for form validation",
+        "link": "https://www.npmjs.com/package/react-hook-form"
       },
       {
         "title": "lazyload image for react js",
         "description": "Lazyload image Library Create Lazyload Gallary with loadlazy",
         "link": "npmjs.com/package/loadlazy"
+      },
+      {
+        "title": "Redux-Toolkit",
+        "description": "Includes utilities to simplify common use cases like store setup, creating reducers, immutable update logic, and more.",
+        "link": "https://redux-toolkit.js.org/"
+      },
+      {
+        "title": "MUI for react js",
+        "description": "MUI offers a comprehensive suite of free UI tools to help you ship new features faster",
+        "link": "https://mui.com"
+      },
+      {
+        "title": "Shard for react js",
+        "description": "Shards is a modern design system based on Bootstrap 4 that comes packed with 10 extra custom components and two pre-built landing pages.",
+        "link": "https://designrevision.com/docs/shards-react"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack Task Management",
-        "category": "Task Control built with MERN (ReactJS, NodeJS)",
-        "image": "taskcontrol.png",
-        "url": "https://taskcontrol.vercel.app"
+        "title": "REVIEWBIT",
+        "category": "NextJS",
+        "image": "reviewbit.png",
+        "url": "https://reviewbit.app/"
       },
       {
-        "title": "MERN Stack Court Case File",
-        "category": "Court Case filling built with MERN (ReactJS, NodeJS)",
-        "image": "ecasex.png",
-        "url": "https://ecasex-jade.vercel.app/"
+        "title": "AYUSHMAN",
+        "category": "ReactJS",
+        "image": "ayush.PNG",
+        "url": "#"
       },
       {
-        "title": "SheepMug Church Management App ",
-        "category": "Church Management React Native app and Web site Made in MERN",
-        "image": "SheepMug.png",
-        "url": "https://www.sheepmug.com/"
+        "title": "HEXMART",
+        "category": "ReactJS",
+        "image": "hex.png",
+        "url": "#"
       },
       {
-        "title": "Ample.tv Video Streaming",
-        "category": "Youtube and Twitch Video streaming Website built with ReactJS And AWS lamda",
-        "image": "ample.png",
-        "url": "https://ample.tv/"
+        "title": "TRIPSMAN",
+        "category": "ReactJS",
+        "image": "trips.png",
+        "url": "#"
       },
       {
-        "title": "Fuuly School Management",
-        "category": "School Management and attendance system built with React Native",
-        "image": "fuuly.png",
+        "title": "TRIPSMAN ADMIN",
+        "category": "ReactJS",
+        "image": "tripadmin.png",
         "url": "#"
       }
+     
     ]
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Mayank did an amazing job and delivered this much faster than expected! I would definitely hire him again for any programming job. He understood the requirements immediately and started to work on it right away. I would surely recommend him for any similar type of work.",
-        "user": "wesley   - Fiverr"
-      },
-      {
-        "text": "Great developer to work with. Very professional and time sensitive. I will keep working with him for long term!",
-        "user": "jinhromeo1  - Fiverr"
-      },
-      {
-        "text": "Mehul has successfully delivered an online store using ReactJs,MongoDb, and NodeJs. He was able to listen and apply any updates or changes to the website. I was happy working with him and I would definitely recommend him!",
-        "user": "Upwork Client"
-      },
-      {
-        "text": "great job. solid react native skills.",
-        "user": "hydrameet founder"
-      }
+     
     ]
   }
 }

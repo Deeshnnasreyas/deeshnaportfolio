@@ -11,34 +11,34 @@ const Education = () => {
                                 <div class="year"><i class='bx bxs-calendar'></i>2015 - 2018</div>
                                 <h3>Bachelor Degree-Mg University</h3>
                                 <p>
-                                    jkjdkwjqlkfjdlkwqjfkjkfnkfnlkflkjewkldfjwlkjfkljweklj
+                                    Computer Science & Enggineering
                                 </p>
                             </div>
                         </div>
                         <div class="education-content">
                             <div class="content">
-                                <div class="year"><i class='bx bxs-calendar'></i>2015 - 2018</div>
-                                <h3>Bachelor Degree-Mg University</h3>
+                                <div class="year"><i class='bx bxs-calendar'></i>2012 - 2015</div>
+                                <h3>Diploma</h3>
                                 <p>
-                                    jkjdkwjqlkfjdlkwqjfkjkfnkfnlkflkjewkldfjwlkjfkljweklj
+                                  Computer Technology
                                 </p>
                             </div>
                         </div>
                         <div class="education-content">
                             <div class="content">
-                                <div class="year"><i class='bx bxs-calendar'></i>2015 - 2018</div>
-                                <h3>Bachelor Degree-Mg University</h3>
+                                <div class="year"><i class='bx bxs-calendar'></i>2010 - 2012</div>
+                                <h3>Higher Secondary</h3>
                                 <p>
-                                    jkjdkwjqlkfjdlkwqjfkjkfnkfnlkflkjewkldfjwlkjfkljweklj
+                                  Biology Science
                                 </p>
                             </div>
                         </div>
                         <div class="education-content">
                             <div class="content">
-                                <div class="year"><i class='bx bxs-calendar'></i>2015 - 2018</div>
-                                <h3>Bachelor Degree-Mg University</h3>
+                                <div class="year"><i class='bx bxs-calendar'></i>2010</div>
+                                <h3>SSLC</h3>
                                 <p>
-                                    jkjdkwjqlkfjdlkwqjfkjkfnkfnlkflkjewkldfjwlkjfkljweklj
+                                   St.Antony's girls high school vadakara
                                 </p>
                             </div>
                         </div>
