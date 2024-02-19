@@ -465,6 +465,10 @@ ul#nav li.current a { color: #F06000; }
    display: block;
    cursor: pointer;
 }
+.portfolio-item .item-wrap .container {
+   display: block;
+   cursor: pointer;
+}
 
 /* overlay */
 .portfolio-item .item-wrap .overlay {

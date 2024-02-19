@@ -7,7 +7,7 @@
     "bio": "My name is Deeshnna Sreyas, I'm Frontend developer. i have expertise on React js.",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "deeshnnasreyas@gmail.com",
-    "phone": "+91 8921547425/ +97430495962 ",
+    "phone": "+91 8921547425",
     "address": {
       "street": "VADAKARA",
       "city": "KOZHIKODE",
@@ -56,28 +56,28 @@
     ],
     "work": [
       {
-        "company": "Hexeam software solutions govt cyberpark,Kozhikode",
-        "title": "Software Engineer",
+        "company": "HEXEAM SOFTWARE SOLUTIONS GOVT.CYBERPARK,KOZHIKODE",
+        "title": "SOFTWARE ENGINEER",
         "years": "Present",
-        "description": "API integration and Testing"
+        "description": "API integration,React conversion,Document preparation,Api reponse sheet preparation,Bug fixing and Testing"
       },
       {
-        "company": "Reviewbit,UL cyberpark,Kozhikode",
-        "title": "Frontend Developer",
-        "years": "",
-        "description": ""
+        "company": "CYBAZE TECHNOLOGIES PVT.LTD,UL CYBERPARK,KOZHIKODE",
+        "title": "SOFTWARE ENGINEER",
+        "years": "16-March-2022 - 30-June-2022",
+        "description": "API integration and React conversion"
       },
       {
-        "company": "Cybaze,UL cyberpark,Kozhikode",
-        "title": "Software Engineer",
-        "years": "",
-        "description": ""
+        "company": "REVIEWBIT,UL CYBERPARK,KOZHIKODE",
+        "title": "JUNIOR SOFTWARE",
+        "years": "15-Sep-2021 - 15-March 2022",
+        "description": "Clarity checking,API integration,Responsive Design"
       },
       {
-        "company": "",
-        "title": "Fullstack developer",
-        "years": "Jan 2018 - May 2020",
-        "description": "Learning Node js and React Js"
+        "company": "BISTUX SOLUTIONS PVT.LTD-KOZHIKODE",
+        "title": "React js developer",
+        "years": "8-Oct-2018 -30 Dec 2018",
+        "description": "Web page design,Responsive Design ANG API integration"
       }
      
     ],
