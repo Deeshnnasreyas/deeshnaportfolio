@@ -1,6 +1,10 @@
-import React from "react";
-
+import React,{useEffect} from "react";
+import Aos from "aos";
+import 'aos/dist/aos.css'
 const Header = ({ data }) => {
+  useEffect(()=>{
+    Aos.init({duration:2000})
+  },[])
   if (data) {
     var name = data.name;
     var occupation = data.occupation;
@@ -43,7 +47,7 @@ const Header = ({ data }) => {
               Education{" "}
             </a>
           </li>
-         
+
           <li>
             <a className="smoothscroll" href="#portfolio">
               Works
@@ -59,12 +63,12 @@ const Header = ({ data }) => {
 
       <div className="row banner">
         <div className="banner-text">
-          <h1 className="responsive-headline">I'm {name}.</h1>
-          <h3>
+          <h1 className="responsive-headline" data-aos="fade-up">I'm {name}.</h1>
+          <h3 data-aos="fade-up">
             I'm a {city} based <span>{occupation}</span>. {description}.
           </h3>
           <hr />
-          <ul className="social">{networks}</ul>
+          <ul className="social" data-aos="fade-up">{networks}</ul>
         </div>
       </div>
 

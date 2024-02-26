@@ -3,7 +3,6 @@ import React, { Component } from "react";
 const SkillData = ({ data }) => {
   if (data) {
     var skillmessage = data.skillmessage;
-
     var skills = data.skills.map(function (skills) {
       var className = "bar-expand " + skills.name.toLowerCase();
       return (
@@ -20,7 +19,7 @@ const SkillData = ({ data }) => {
       <div className="row skill">
         <div className="three columns header-col">
           <h1>
-            <span>Skills11</span>
+            <span>Skills</span>
           </h1>
         </div>
 
